@@ -5,8 +5,8 @@
 ######################################################
 # Load function provided by brendan o'connor - gist.github.com/39760 - anyall.org
 ######################################################
-# Insert the path to the directory that holds the MNIST data files
-setwd("/Users/lucadicarlo/Documents/OxfordBrookes/classes/DALT7011-ML Intro/assignments/data/")
+# INSERT THE PATH TO THE WORKING DIRECTORY OF THE 4 DATA FILES
+setwd("INSERT YOUR SYSTEM PATH HERE/data/")
 
 # load function
 load_mnist <- function() {
